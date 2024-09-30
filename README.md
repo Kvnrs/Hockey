@@ -1,2 +1,1 @@
-# Hockey
-Ejercicio Egg Git
+# Migthy Ducks Hockey League
